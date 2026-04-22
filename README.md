@@ -1,2 +1,15 @@
-# expert-system
-My Computers Voice Assistant Bot That Runs Locally and Can Chat In Real Time.
+ollama>=0.4.0
+chromadb>=1.0.0
+TTS>=0.22.0
+faster-whisper>=1.1.0
+torch>=2.2.0
+torchaudio>=2.2.0
+silero-vad>=5.1
+sounddevice>=0.5.0
+numpy>=1.26.0
+fastapi>=0.115.0
+uvicorn>=0.34.0
+websockets>=14.0
+pyyaml>=6.0
+pydantic>=2.10.0
+scipy>=1.12.0
